@@ -1,0 +1,29 @@
+/*for huge titles*/
+@font-face {
+	font-family: 'Raleway-BlackItalic';
+	src: url(../css/fonts/Raleway-BlackItalic.ttf) format("truetype");
+	font-style: bold;
+	font-weight: bold;
+}
+/*for semi huge titles*/
+@font-face {
+	font-family: 'Raleway-SemiBold';
+	src: url(../css/fonts/Raleway-SemiBold.ttf) format("truetype");
+	font-style: bold;
+	font-weight: bold;
+}
+/*normal for all the info*/
+@font-face {
+	font-family: 'Raleway-Regular';
+	src: url(../css/fonts/Raleway-Regular.ttf) format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* for small info*/
+@font-face {
+	font-family: 'Raleway-ExtraLightItalic';
+	src: url(../css/fonts/Raleway-ExtraLightItalic.ttf) format("truetype");
+	font-style: italic;
+	font-weight: normal;
+}
